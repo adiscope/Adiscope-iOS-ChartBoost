@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdiscopeWithChartBoost",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.0.0/ChartboostSDK.xcframework.zip",
-            checksum: "43ecd7580b1297a8141dc0701e641faf4279af34c1346650a7a1422921c4b330"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.2.0/ChartboostSDK.xcframework.zip",
+            checksum: "21ab73dc8f95f325bc31b63e66a64c1d719ae306d8c4c50e08d494200f86dfdd"
         ),
     ]
 )
